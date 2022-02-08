@@ -1,6 +1,6 @@
 # SpaceX Script Interface
 
-- Welcome to this project. This project will help you get the data via our own created interface, which then calls the SpaceX API
+- Welcome to this project. This project will help you get the data via our own created interface, which then calls the SpaceX API.
 - This project is purely based on `NodeJS` and `ExpressJS`.
 - We have also added video of exploration one of the queryable data **(which can be found inside the parent folder of this project)** on the local host doing these task:
     - Listing down the items of the queryable data
