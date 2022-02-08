@@ -10,7 +10,7 @@
 ## Initial Setup
 
 - For running the application on your system, you  must have `npm` installed, and the `node`. To download the same you can visit [NodeJS](https://nodejs.org/en/download/) and [Get NPM](https://www.npmjs.com/get-npm)
-- After having done with the installation of the prerequisites, go into the project and remove `node_modules` and `package-lock.json`
+- After having done with the installation of the prerequisites, go into the project and remove `node_modules` and `package-lock.json`.
 - When done run this command `npm install && npm run nodemoon` or `npm install && npm run start`
 - Your app will run on the localserver, probably on `3000`. You can then test the API for the functionalities
 
